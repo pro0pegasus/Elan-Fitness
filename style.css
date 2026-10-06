@@ -204,7 +204,8 @@ button:focus-visible {
   color: #FF6B2C;
 }
 
-.menu .lien-actif {
+
+.menu .lien-actif{
   color: #FF6B2C;
   font-weight: 600;
   border-bottom-color: #FF6B2C;
