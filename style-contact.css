@@ -9,6 +9,15 @@
   margin-bottom: 20px;
 }
 
+.titre-section h2{
+  margin-bottom: 10px;
+  font-size: 32px;
+}
+
+.titre-section p{
+  color: #4B5563;
+}
+
 form {
   display: flex;
   flex-direction: column;
