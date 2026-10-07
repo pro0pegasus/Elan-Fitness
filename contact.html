@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-contact.css">
   <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 </head>
 
@@ -34,10 +35,20 @@
   <main>
 
     <section>
-      <div>
+      <div class="contact-conteneur">
+        <h2 class="titre-section">Contactez-nous</h2>
+        <p class="titre-section">Vous avez des questions ou souhaitez réserver un cours d'essai gratuit ? Remplissez le formulaire ci-dessous :</p>
         <form>
           <label for="nom">Nom :</label>
-          <input type="text" id="" > 
+          <input class="input-area" type="text" id="nom" name="nom">
+
+          <label for="email">Email :</label>
+          <input class="input-area" type="email" id="email" name="email">
+
+          <label for="message">Message :</label>
+          <textarea id="message" name="message" rows="8"></textarea>
+
+          <button type="submit">Envoyer</button>
         </form>
       </div>
     </section>

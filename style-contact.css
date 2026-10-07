@@ -1,0 +1,40 @@
+.contact-conteneur{
+  margin: auto;
+  padding: 70px;
+  width: 50%;
+}
+
+.titre-section{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.input-area {
+  padding: 8px;
+  border: 1px solid #E5E7EB;
+  border-radius: 4px;
+}
+
+form textarea {
+  border: 1px solid #E5E7EB;
+  border-radius: 4px;
+}
+
+form button {
+  padding: 10px;
+  background-color: #FF6B2C;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #F05817;
+}
