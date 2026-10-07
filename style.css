@@ -180,14 +180,14 @@ button:focus-visible {
   color: #0F1B2D;
 }
 
-.logo::after {
+/* .logo::after {
   content: "";
   width: 10px;
   height: 10px;
   margin-left: 8px;
   background-color: #FF6B2C;
   border-radius: 50%;
-}
+} */
 
 .menu {
   display: flex;
@@ -520,6 +520,10 @@ button:focus-visible {
 
 .logo-clair {
   color: #FFFFFF;
+}
+
+.footer-logo {
+  filter: invert(1) brightness(2);
 }
 
 .slogan {
