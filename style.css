@@ -522,10 +522,6 @@ button:focus-visible {
   color: #FFFFFF;
 }
 
-.footer-logo {
-  filter: invert(1) brightness(2);
-}
-
 .slogan {
   margin-top: 8px;
   font-size: 14px;
