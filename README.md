@@ -139,7 +139,7 @@ Elan-Fitness/
 10. Que se passe-t-il à chaque fin de sprint ?
   * À la fin de chaque sprint, deux réunions obligatoires doivent être organisées pour clôturer les événements afin d'inspecter le travail accompli et d'améliorer le processus (la Sprint Review et la Sprint Retrospective).
 
-## Resource:
+##  Resource:
  * Presentations:
     * Agile
     * Scrum
