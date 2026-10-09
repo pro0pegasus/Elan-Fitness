@@ -29,6 +29,7 @@ Migration d'un site one-page vers un site multipage. Pages à réaliser : Accuei
 
 ## 🏗️ Structure
 
+```
 Elan-Fitness/
 │
 ├── index.html                 # Page d'accueil, page officielle.
@@ -43,6 +44,7 @@ Elan-Fitness/
 └── img/                      # Médias
 ├── logo.png/             # Photo
 ├── ...                   # Photos, icônes, logos
+```
 
 ## 🤔 Q & R
 
