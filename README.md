@@ -43,7 +43,7 @@ Elan-Fitness/
 │
 └── img/                      # Médias
 ├── logo.png/             # Photo
-├── ...                   # Photos, icônes, logos
+└── ...                   # Photos, icônes, logos
 ```
 
 ## 🤔 Q & R
