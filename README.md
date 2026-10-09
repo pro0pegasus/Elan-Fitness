@@ -36,7 +36,6 @@ Elan-Fitness/
 ├── README.md                  # Documentation du projet et instructions d'installation.
 ├── a-propos.html/             # Sous-dossiers pour les pages internes (à propos, programmes, contact).
 ├── programmes.html/
-
 ├── contact.html/
 ├── styles.css                # Feuille de style globale partagée entre les pages.
 ├── style-contact.css         # Feuille de style dédiée au formulaire de la page contact.
