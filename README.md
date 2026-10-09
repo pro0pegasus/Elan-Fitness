@@ -64,17 +64,17 @@ Elan-Fitness/
 
 3. Que signifie SEO et quels sont ses 3 piliers ?
   * Le SEO (Search Engine Optimisation), ou optimisation pour les moteurs de recherche, est une pratique visant à améliorer la structure, le contenu et le positionnement d'une page ou d'un site web.
-  * Les piliers du SEO sont au nombre de 3 : le SEO on-page, le SEO off-page et le SEO technique.
-  * SEO on-page :
-  * Titre optimisé, nom de domaine explicite et accrocheur, méta-description, respect de la hiérarchie des titres (headings).
-
-
-  * SEO off-page :
-  * Backlinks (sites web de confiance), link baiting (votre site devient une référence pour les autres).
-  
-  
-  * SEO technique (Infrastructure) :
-  * Vitesse de chargement (2-3s), certificat SSL (https://), responsive design (indexation Mobile-First).
+   * Les piliers du SEO sont au nombre de 3 : le SEO on-page, le SEO off-page et le SEO technique.
+   * SEO on-page :
+    * Titre optimisé, nom de domaine explicite et accrocheur, méta-description, respect de la hiérarchie des titres (headings).
+ 
+ 
+   * SEO off-page :
+    * Backlinks (sites web de confiance), link baiting (votre site devient une référence pour les autres).
+   
+   
+   * SEO technique (Infrastructure) :
+    * Vitesse de chargement (2-3s), certificat SSL (https://), responsive design (indexation Mobile-First).
 
 
 4. Qu'est-ce que l'UX/UI, à quoi cela sert-il, et pourquoi est-ce important avant de commencer à écrire du code ?
@@ -99,8 +99,8 @@ Elan-Fitness/
 6. Comment lie-t-on d'autres fichiers à un fichier HTML ?
   * Nous lions d'autres fichiers à un document HTML pour étendre ses fonctionnalités, styliser son apparence et permettre la navigation entre plusieurs pages.
   Par exemple :
-  * Lier un fichier CSS dans la balise `<head>` : `<link rel="stylesheet" href="styles.css">`
-  * Lier un fichier JS dans `<head>` ou tout en bas de `<body>` : `<script src="/filename.js"></script>`
+   * Lier un fichier CSS dans la balise `<head>` : `<link rel="stylesheet" href="styles.css">`
+   * Lier un fichier JS dans `<head>` ou tout en bas de `<body>` : `<script src="/filename.js"></script>`
 
 
 7. Que signifie WCAG et pourquoi l'accessibilité est-elle importante ?
